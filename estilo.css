@@ -172,7 +172,7 @@ a{
 
 #CASAMIENTO .container{
 	text-align: center;
-	padding: 10px 5px;
+	padding: 5px 5px;
 
 	font-family: Copperplate Gothic;
 	color : whitesmoke;
@@ -237,41 +237,6 @@ footer p{
 }
 
 
-section.galeria{
-	text-align: center;
-	margin-bottom: 30px;
-	color: black;
-	font-family :Copperplate Gothic;
-	
-
-}
-
-section.galeria .item-galeria{
-	padding: 0,3px;
-	margin-bottom: 5px;
-
-}
-section.galeria .item-galeria a img{
-	transition: all 0.3 ease-out;
-	border-radius: 20px;
-}
-
-section.galeria .item-galeria a:hover img{
- 	position: relative;
-	z-index: 999;
-
-	}
-
-.img-fluid{
-	max-width: 100%;
-	height: auto;
-	float: left;
-	overflow: hidden;
-}
-section galeria .item-galeria{
-float: left;
-	overflow: hidden;
-}
 
 
 
@@ -350,7 +315,7 @@ font-variant: small-caps;
 
 .img1{
 	width: 230px;
-	height: 190px;
+	height: 200px;
 }
 .img2{
 	width: 150px;

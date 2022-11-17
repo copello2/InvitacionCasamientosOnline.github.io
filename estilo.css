@@ -173,7 +173,7 @@ a{
 
 #CASAMIENTO .container{
 	text-align: center;
-	padding: 5px 5px;
+	padding: 15px 5px;
 
 	font-family: Copperplate Gothic;
 	color : whitesmoke;
@@ -203,7 +203,7 @@ a{
 
 #dia .container{
 	text-align: center;
-	padding: 0px 12px;
+	padding: 5px 8px;
 	font-family: Copperplate Gothic;
 	color : black;
 }
